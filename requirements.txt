@@ -1,8 +1,7 @@
- Python 
- Anaconda
+ Python 3.10
  Pandas
 Numpy
 Scikit-learn
 NLP
 
-Streamlit
+
