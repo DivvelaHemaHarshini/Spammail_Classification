@@ -1,0 +1,5 @@
+Programming Language: Python 3.X
+Environment: Anaconda
+Data Analysis and Machine Learning Libraries: Pandas, Numpy, Scikit-learn, NLP
+IDE: VS code,jupiter notebook
+UI: Streamlit
