@@ -4,6 +4,5 @@
 Numpy
 Scikit-learn
 NLP
-VS code
-jupiter notebook
+
 Streamlit
